@@ -1,7 +1,7 @@
 using System;
 
 class Plataforma {
-        public string Fabricante {get; private set;}
+        public string Fabricante {get; set;}
         public double Alcance {get; set;}
         public string Modelo {get; set;}
         public double Capacidade {get; set;}
@@ -28,8 +28,6 @@ class Plataforma {
                 + "\nAlcance: " + Alcance
                 + "\nModelo: " + Modelo
                 + "\nCapacidade: " + Capacidade;
-                
-
         }
 
 

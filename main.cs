@@ -5,10 +5,11 @@ class MainClass {
     //http://codepad.org/VwIDTKG8
     //tiny.cc/miniprojaed
 
-    Plataforma JLG = new Plataforma();
+        Plataforma p1 = new Plataforma("JLG", 40.23, "1250AJP", 227);
 
-    Console.WriteLine ("Informe a plataforma reservada: ");
-    Console.WriteLine(JLG.exibe());
+        Cliente cliente1 = new Cliente("Valerio", "147147147069", 24, p1);
+
+        Console.WriteLine(cliente1.exibe());
 
     
   }
