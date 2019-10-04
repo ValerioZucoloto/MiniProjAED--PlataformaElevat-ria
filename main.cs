@@ -7,6 +7,9 @@ class MainClass {
 
     Plataforma JLG = new Plataforma();
 
+    Console.WriteLine ("Informe a plataforma reservada: ");
+    Console.WriteLine(JLG.exibe());
+
     
   }
 }
