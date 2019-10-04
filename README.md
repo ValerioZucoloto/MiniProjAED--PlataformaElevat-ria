@@ -1,1 +1,1 @@
-# MiniProjAED--PlataformaElevat-ria
+# MiniProjAED--PlataformaElevatoria
