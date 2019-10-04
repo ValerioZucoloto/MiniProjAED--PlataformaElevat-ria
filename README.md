@@ -1,0 +1,1 @@
+# MiniProjAED--PlataformaElevat-ria
